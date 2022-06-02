@@ -19,3 +19,6 @@ Practical Statistics For Data Science 교재 따라쓰기 입니다.
 - 05/28 - 
 이제 다시..통계를 해봅시다
 
+-06/02 - 
+퇴사 완료 오늘은 쉬었다 갑니다.
+힘드네요
