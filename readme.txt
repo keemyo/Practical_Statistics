@@ -26,3 +26,6 @@ Practical Statistics For Data Science 교재 따라쓰기 입니다.
 -06/07 - 
 퇴사 회식하고왔어요.
 죄송합니다
+
+-06/11- 
+다시 시작
