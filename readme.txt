@@ -29,3 +29,6 @@ Practical Statistics For Data Science 교재 따라쓰기 입니다.
 
 -06/11- 
 다시 시작
+
+-06/18-
+오늘은 공부를 쉬어 갑니다.
