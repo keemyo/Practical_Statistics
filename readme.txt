@@ -1,4 +1,4 @@
--05/23-
+-5/23-
 Practical Statistics For Data Science 교재 따라쓰기 입니다.
 학습용으로만 사용합니다 :)
 
@@ -32,3 +32,4 @@ Practical Statistics For Data Science 교재 따라쓰기 입니다.
 
 -06/18-
 오늘은 공부를 쉬어 갑니다.
+내일부터 다시 공부 예정입니다^^; 본집에 왔더니 쉽지 않군요
